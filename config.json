@@ -7,22 +7,16 @@
   "adminOnly": false,
   "encryptSt": true,
   "UPTIME": 200,
-  "commandDisabled": [
-    "ship.js"
-  ],
+  "commandDisabled": ["ship.js"],
   "eventDisabled": [],
-  "BOTOWNER": "Marjhun Baylon",
-  "OWNERLINK": "https://www.facebook.com/zcoded221",
-  "OWNERID": "100085656551427",
-  "BOTCREATOR": "Marjhun Baylon",
+  "BOTOWNER": "Jerome",
+  "OWNERLINK": "https://www.facebook.com/100092668630167",
+  "OWNERID": "100092668630167",
+  "BOTCREATOR": "Jerome",
   "CREATORLINK": "https://www.facebook.com/zcoded221",
-  "BOTNAME": "ғᴜᴊɪ",
+  "BOTNAME": "Kura",
   "PREFIX": "!",
-  "ADMINBOT": [
-    "100085656551427",
-    "100047545013107",
-    "100071033856627"
-  ],
+  "ADMINBOT": ["100092668630167"],
   "DESIGN": {
     "Title": "FUJIPACK",
     "Theme": "Retro",
