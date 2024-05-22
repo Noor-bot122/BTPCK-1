@@ -15,7 +15,7 @@
   "BOTCREATOR": "Jerome",
   "CREATORLINK": "https://www.facebook.com/zcoded221",
   "BOTNAME": "Kura",
-  "PREFIX": "!",
+  "PREFIX": "/",
   "ADMINBOT": ["100092668630167"],
   "DESIGN": {
     "Title": "FUJIPACK",
